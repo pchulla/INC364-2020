@@ -1,0 +1,55 @@
+
+                                      ARENA Simulation Results
+                            phakhawat.chu@outlook.com - License: STUDENT
+
+                                  Summary for Replication 1 of 1
+
+Project: Unnamed Project                                             Run execution date : 3/ 2/2021
+Analyst: phakhawat.chu@outlook.com                                   Model revision date: 3/ 2/2021
+
+Replication ended at time      : 4944.6649 Minutes 
+Base Time Units: Minutes
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+AB027.VATime                                30.327     .12192     25.390     34.768       1000    
+AB027.NVATime                               .00000     .00000     .00000     .00000       1000    
+AB027.WaitTime                              1.2445     .77247     .00000     51.024       1000    
+AB027.TranTime                              .00000     .00000     .00000     .00000       1000    
+AB027.OtherTime                             .00000     .00000     .00000     .00000       1000    
+AB027.TotalTime                             31.572     .77958     25.390     81.557       1000    
+Make AB027.Queue.WaitingTime                1.2445     .78684     .00000     51.024       1000    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+AB027.WIP                                   6.3851     .25764     .00000     18.000     .00000    
+A02.NumberBusy                              3.0614     .36408     .00000     10.000     .00000    
+A02.NumberScheduled                         10.000     (Insuf)    10.000     10.000     10.000    
+A02.Utilization                             .30615     .03641     .00000     1.0000     .00000    
+A01.NumberBusy                              3.0719     .38087     .00000     10.000     .00000    
+A01.NumberScheduled                         10.000     (Insuf)    10.000     10.000     10.000    
+A01.Utilization                             .30720     .03809     .00000     1.0000     .00000    
+Make AB027.Queue.NumberInQueue              .25169     (Insuf)    .00000     10.000     .00000    
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+AB027.NumberIn                              1000.0    
+AB027.NumberOut                             1000.0    
+A02.NumberSeized                            501.00    
+A02.ScheduledUtilization                    .30615    
+A01.NumberSeized                            499.00    
+A01.ScheduledUtilization                    .30720    
+System.NumberOut                            1000.0    
+
+
+Simulation run time: 5.47 minutes.
+Simulation run complete.

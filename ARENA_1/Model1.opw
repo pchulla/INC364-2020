@@ -1,0 +1,8 @@
+[RESOURCES]
+A02
+A01
+[VARIABLES]
+Feed Raw Material.NumberOut
+Make AB027.NumberIn
+Release AB027.NumberOut
+Make AB027.NumberOut

@@ -1,0 +1,8 @@
+[RESOURCES]
+A01
+Red Painter
+[VARIABLES]
+Make AB027.NumberIn
+Raw Material Feed.NumberOut
+Dispose 1.NumberOut
+Make AB027.NumberOut

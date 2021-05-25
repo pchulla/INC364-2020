@@ -1,0 +1,17 @@
+Fit All
+
+Document:  C:\Users\phakh\OneDrive\Work\KMUTT\Teaching Assistant\INC 364 - 2020\ARENA_1\Data\AB027_Process_Time_New.dst
+Data File: C:\Users\phakh\OneDrive\Work\KMUTT\Teaching Assistant\INC 364 - 2020\ARENA_1\Data\AB027_Process_Time_New.dst
+
+
+Function       Sq Error
+-----------------------
+Triangular     0.000734
+Normal         0.00112
+Beta           0.00116
+Weibull        0.00137
+Gamma          0.00472
+Erlang         0.00489
+Lognormal      0.00806
+Uniform        0.0137
+Exponential    0.0278

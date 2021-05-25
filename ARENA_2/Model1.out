@@ -1,0 +1,64 @@
+
+                                      ARENA Simulation Results
+                            phakhawat.chu@outlook.com - License: STUDENT
+
+                                  Summary for Replication 1 of 1
+
+Project: Unnamed Project                                             Run execution date : 3/ 2/2021
+Analyst: phakhawat.chu@outlook.com                                   Model revision date: 3/ 2/2021
+
+Replication ended at time      : 5100.0 Minutes 
+Base Time Units: Minutes
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+Ball.VATime                                     --         --         --         --          0
+Ball.NVATime                                    --         --         --         --          0
+Ball.WaitTime                                   --         --         --         --          0
+Ball.TranTime                                   --         --         --         --          0
+Ball.OtherTime                                  --         --         --         --          0
+Ball.TotalTime                                  --         --         --         --          0
+AB027.VATime                                30.230     .12415     25.200     34.760       1000    
+AB027.NVATime                               .00000     .00000     .00000     .00000       1000    
+AB027.WaitTime                              7.2298     .57924     .00000     30.100       1000    
+AB027.TranTime                              .00000     .00000     .00000     .00000       1000    
+AB027.OtherTime                             .00000     .00000     .00000     .00000       1000    
+AB027.TotalTime                             37.460     .59706     25.431     64.473       1000    
+Make AB027.Queue.WaitingTime                5.7248     .60642     .00000     30.000       1000    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+Ball.WIP                                    .00000     (Insuf)    .00000     .00000     .00000    
+AB027.WIP                                   7.3452     .24675     .00000     16.000     .00000    
+A01.NumberBusy                              5.9276     .22000     .00000     10.000     .00000    
+A01.NumberScheduled                         10.000     (Insuf)    10.000     10.000     10.000    
+A01.Utilization                             .59276     .02200     .00000     1.0000     .00000    
+Red Painter.NumberBusy                      .00000     (Insuf)    .00000     .00000     .00000    
+Red Painter.NumberScheduled                 2.0000     (Insuf)    2.0000     2.0000     2.0000    
+Red Painter.Utilization                     .00000     (Insuf)    .00000     .00000     .00000    
+Make AB027.Queue.NumberInQueue              1.1225     .13139     .00000     9.0000     .00000    
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+Ball.NumberIn                               .00000    
+Ball.NumberOut                              .00000    
+AB027.NumberIn                              1000.0    
+AB027.NumberOut                             1000.0    
+A01.NumberSeized                            1000.0    
+A01.ScheduledUtilization                    .59276    
+Red Painter.NumberSeized                    .00000    
+Red Painter.ScheduledUtilization            .00000    
+System.NumberOut                            1000.0    
+
+
+Simulation run time: 0.05 minutes.
+Simulation run complete.

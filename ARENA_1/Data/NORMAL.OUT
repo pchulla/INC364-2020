@@ -1,0 +1,46 @@
+
+	Distribution Summary
+
+Distribution:	Normal       
+Expression:	NORM(4.97, 2.19)
+Square Error:	0.003079
+
+Chi Square Test
+  Number of intervals	= 11
+  Degrees of freedom 	= 8
+  Test Statistic     	= 39.7
+  Corresponding p-value	< 0.005
+
+	Data Summary
+
+Number of Data Points	= 1000
+Min Data Value       	= 0
+Max Data Value       	= 13
+Sample Mean          	= 4.97
+Sample Std Dev       	= 2.19
+
+	Histogram Summary
+
+Histogram Range    	= -0.5 to 13.5
+Number of Intervals	= 14
+
+
+==================================================================
+Int.   No. of               Probability           Cumulative      
+No.    Data Pts.   x        Density               Distribution    
+------------------------------------------------------------------
+                            Data   Function       Data   Function   
+   0     3       0.00    0.00300     0.0142    0.00300     0.0203
+   1    24       1.00     0.0240     0.0357     0.0270     0.0560
+   2   100       2.00      0.100     0.0729      0.127      0.129
+   3   152       3.00      0.152      0.121      0.279      0.250
+   4   158       4.00      0.158      0.164      0.437      0.414
+   5   191       5.00      0.191      0.181      0.628      0.595
+   6   134       6.00      0.134      0.162      0.762      0.757
+   7   109       7.00      0.109      0.119      0.871      0.876
+   8    66       8.00     0.0660     0.0706      0.937      0.947
+   9    41       9.00     0.0410     0.0342      0.978      0.981
+  10    11       10.0     0.0110     0.0135      0.989      0.994
+  11     4       11.0    0.00400    0.00433      0.993      0.999
+  12     2       12.0    0.00200    0.00113      0.995       1.00
+  13     5       13.0    0.00500   0.000241       1.00       1.00
